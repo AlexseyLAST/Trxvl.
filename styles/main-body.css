@@ -53,19 +53,19 @@
 }
 
 .vacation__block:nth-child(1n){
-    background-image: url(/images/block1.png);
+    background-image: url(..//images/block1.png);
 }
 
 .vacation__block:nth-child(2n){
-    background-image: url(/images/block2.png);
+    background-image: url(..//images/block2.png);
 }
 
 .vacation__block:nth-child(3n){
-    background-image: url(/images/block3.png);
+    background-image: url(..//images/block3.png);
 }
 
 .vacation__block:nth-child(4n){
-    background-image: url(/images/block4.png);
+    background-image: url(..//images/block4.png);
 }
 
 .vacation__name{
@@ -293,19 +293,19 @@
 }
 
 .realty__block:nth-child(1n){
-    background-image: url(/images/offers4.png);
+    background-image: url(..//images/offers4.png);
 }
 
 .realty__block:nth-child(2n){
-    background-image: url(/images/offers5.png);
+    background-image: url(..//images/offers5.png);
 }
 
 .realty__block:nth-child(3n){
-    background-image: url(/images/offers6.png);
+    background-image: url(..//images/offers6.png);
 }
 
 .realty__block:nth-child(4n){
-    background-image: url(/images/offers7.png);
+    background-image: url(..//images/offers7.png);
 }
 
 .realty__name{
@@ -341,7 +341,7 @@
     height: 395px;
     top: 572px;
     border-radius: 24px;
-    background-image: url(/images/map.png);
+    background-image: url(..//images/map.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
